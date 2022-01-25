@@ -1,0 +1,11 @@
+{
+  "name": "covid19bot",
+  "version": "1.0.0",
+  "description": "covid 19 stat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paper",
+  "license": "ISC"
+}
