@@ -1,0 +1,1 @@
+#### A telegram service to which users can subscribe to and get the latest covid stats of their area.
